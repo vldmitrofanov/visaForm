@@ -1,0 +1,7 @@
+<option value="H">COHABITED</option>
+<option value="C">CUSTOMARY</option>
+<option value="D">DIVORCED</option>
+<option value="M">MARRIED</option>
+<option value="P">SEPARATED</option>
+<option value="S">SINGLE</option>
+<option value="W">WIDOWED</option>

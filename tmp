@@ -1,0 +1,99 @@
+<table class="other_people" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <th>Отношения</th>
+          <th>Фамилия</th>
+          <th>Имя</th>
+          <th>Пол</th>
+          <th>Дата рождения</th>
+          <th class="text-center">Оформ-ляем визу</th>
+        </tr>
+          
+            
+
+<tr class="other-people-tr">
+  <td>
+    <div class="wrap_select">
+    <select id="id_extratourist_set-0-applicant_type" name="extratourist_set-0-applicant_type">
+<option value="" selected="selected">---------</option>
+<option value="13">Отец</option>
+<option value="14">Мать</option>
+<option value="2">Жена</option>
+<option value="11">Муж</option>
+<option value="6">Гражданская жена</option>
+<option value="12">Гражданский муж</option>
+<option value="4">Сын</option>
+<option value="5">Дочь</option>
+<option value="7">Внук</option>
+<option value="8">Внучка</option>
+<option value="9">Другой родственник</option>
+<option value="10">Няня/прислуга</option>
+</select>
+    </div>
+  </td>
+  <td><input data-title="Фамилия" id="id_extratourist_set-0-family_name" maxlength="255" name="extratourist_set-0-family_name" type="text"></td>
+  <td><input data-title="Имя" id="id_extratourist_set-0-name" maxlength="255" name="extratourist_set-0-name" type="text"></td>
+  <td><div class="wrap_select sex-wrap"><select id="id_extratourist_set-0-sex" name="extratourist_set-0-sex">
+<option value="" selected="selected">-</option>
+<option value="1">М</option>
+<option value="2">Ж</option>
+</select></div></td>
+  <td><input class="datepicker hasDatepicker" id="id_extratourist_set-0-birth_date" name="extratourist_set-0-birth_date" type="text"></td>
+  <td class="visa-check" title="Для данного попутчика виза не оформлена и мы также подаем ее на рассмотрение с основным заявителем">
+    <input id="id_extratourist_set-0-need_visa" name="extratourist_set-0-need_visa" type="checkbox">
+  </td>
+</tr>
+<tr class="error-tr">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+          
+            
+
+<tr class="other-people-tr">
+  <td>
+    <div class="wrap_select">
+    <select id="id_extratourist_set-1-applicant_type" name="extratourist_set-1-applicant_type">
+<option value="" selected="selected">---------</option>
+<option value="13">Отец</option>
+<option value="14">Мать</option>
+<option value="2">Жена</option>
+<option value="11">Муж</option>
+<option value="6">Гражданская жена</option>
+<option value="12">Гражданский муж</option>
+<option value="4">Сын</option>
+<option value="5">Дочь</option>
+<option value="7">Внук</option>
+<option value="8">Внучка</option>
+<option value="9">Другой родственник</option>
+<option value="10">Няня/прислуга</option>
+</select>
+    </div>
+  </td>
+  <td><input data-title="Фамилия" id="id_extratourist_set-1-family_name" maxlength="255" name="extratourist_set-1-family_name" type="text"></td>
+  <td><input data-title="Имя" id="id_extratourist_set-1-name" maxlength="255" name="extratourist_set-1-name" type="text"></td>
+  <td><div class="wrap_select sex-wrap"><select id="id_extratourist_set-1-sex" name="extratourist_set-1-sex">
+<option value="" selected="selected">-</option>
+<option value="1">М</option>
+<option value="2">Ж</option>
+</select></div></td>
+  <td><input class="datepicker hasDatepicker" id="id_extratourist_set-1-birth_date" name="extratourist_set-1-birth_date" type="text"></td>
+  <td class="visa-check" title="Для данного попутчика виза не оформлена и мы также подаем ее на рассмотрение с основным заявителем">
+    <input id="id_extratourist_set-1-need_visa" name="extratourist_set-1-need_visa" type="checkbox">
+  </td>
+</tr>
+<tr class="error-tr">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+          
+      </tbody></table>

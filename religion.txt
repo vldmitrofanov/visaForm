@@ -1,0 +1,8 @@
+<option value="B">BUDDHIST</option>
+<option value="C">CHRISTIAN</option>
+<option value="F">FREE THINKER</option>
+<option value="H">HINDU</option>
+<option value="M">MUSLIM</option>
+<option value="O">OTHERS</option>
+<option value="S">SIKH</option>
+<option value="T">TAOIST</option>
